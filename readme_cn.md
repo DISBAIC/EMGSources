@@ -1,5 +1,5 @@
 # 空地自主协同野外消防系统
 
-## ANO_LX_FC 无人机飞控
+## ANO_LX_FC 无人机飞控程序
 ## NewCarFTE 无人车控制程序
 ## RDK Unit 部署在RDK 开发板上的程序
